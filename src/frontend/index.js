@@ -1,4 +1,3 @@
-import { backend } from '../declarations/backend';
 import * as PROPRIUM from 'hvym-proprium';
 
 
